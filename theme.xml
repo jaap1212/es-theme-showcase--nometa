@@ -78,7 +78,12 @@ version         1.0
          <size>1 1</size>
          <path>./_inc/images/backgroundgame.png</path>
       </image>
+<<<<<<< HEAD
       <text name="md_lbl_rating, md_lbl_playcount, md_rating">
+=======
+
+<text name="md_lbl_rating, md_rating, md_lbl_playcount">
+>>>>>>> c904ba54f2ebfa8f139d46dd02bd80b7ef77fc39
          <pos>1 1</pos>
       </text>
       <text name="md_lbl_rating,md_lbl_playcount,md_lbl_players,md_playcount,md_players">
@@ -121,6 +126,41 @@ version         1.0
      <fontPath>./_inc/fonts/OpenSans-Bold.ttf</fontPath>
      <fontSize>0.0195</fontSize>
      </text>
+<<<<<<< HEAD
+=======
+
+      
+      
+      
+         <textlist name="gamelist">
+         <pos>0.04 0.17</pos>
+         <size>0.3 0.67</size>
+         <alignment>left</alignment>
+      </textlist>
+   </view>
+
+   <view name="detailed,video">
+      <image name="background" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <path>./_inc/images/backgroundgame.png</path>
+      </image>
+      <text name="">
+         <pos>1 1</pos>
+      </text>
+      <text name="">
+         <color>FFFFFF</color>
+         <fontPath>./_inc/fonts/OpenSans-Bold.ttf</fontPath>
+         <fontSize>0.0195</fontSize>
+      </text>   
+
+      <text name="md_description">
+         <pos>0.44 0.55</pos>
+         <size>0.525 0.29</size>
+         <color>FFFFFF</color>
+      </text>
+>>>>>>> c904ba54f2ebfa8f139d46dd02bd80b7ef77fc39
       <textlist name="gamelist">
          <pos>0.04 0.17</pos>
          <size>0.3 0.67</size>
